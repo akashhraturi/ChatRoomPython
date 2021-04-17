@@ -7,3 +7,4 @@ In the server CMD, type 'python server.py' and hit enter. Our server will start 
 In the second CMD window, type 'client server.py' and hit enter. The prompt will then ask for your nickname, enter it. You'll then be connected to the server.
 In the third CMD, repeat the same procedure.
 Server will tell you that both the connections are now connected and is ready to chat!
+ 
